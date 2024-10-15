@@ -12,7 +12,7 @@ class USSDApp(tk.Tk):
 
     # Scene 1: Phone screen with *858# and a phone button
     def phone_screen(self):
-        # Clear the window
+       
         self.clear_window()
 
         # Label with *858#
